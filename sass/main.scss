@@ -1,0 +1,35 @@
+//Button
+//
+//Styleguide 1.0
+
+//Button A
+//
+//markup:
+//<div class="btn-a">Button A</div>
+//
+//Styleguide 1.1
+.btn-a {
+  background: #000;
+  color: #fff;
+  display: block;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+}
+
+//Button B
+//
+//markup:
+//<div class="btn-b">Button B</div>
+//
+//Styleguide 1.2
+.btn-b {
+  background: #ff0000;
+  color: #fff;
+  display: block;
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+}
